@@ -3,8 +3,8 @@ title: "Cuisine_Project"
 author: "Jose M. Serra Jr."
 date: "12/12/2021"
 output:
-  html_document: default
-  pdf_document: default
+  md_document:
+    variant: markdown_github
 ---
 
 <h2>Big Data Analysis and Techinques with Food Data Set</h2>
